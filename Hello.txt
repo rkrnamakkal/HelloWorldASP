@@ -1,4 +1,4 @@
 Hello World
 Yet Another line of code
 Third line
-Fourth line
+Just another change - this will create a conflict
